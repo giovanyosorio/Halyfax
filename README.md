@@ -4,3 +4,5 @@
 
 ## My own API 
 ### Technologies
+-- Nodejs
+-- Express
